@@ -27,9 +27,9 @@ Tenho interesse em projetos backend e estou sempre buscando aprender e crescer c
 
 ### 📌 Projetos em destaque
 
-- 🔧 [API de Cadastro de Usuários](https://github.com/seu-usuario/cadastro-usuarios)
+- 🔧 [API de Cadastro de Usuários](https://github.com/WJESUSS/Calculadora)
 - 🧮 [Calculadora REST com Spring Boot](https://github.com/seu-usuario/calculadora-api)
-- 📚 [Sistema Acadêmico com Spring Boot](https://github.com/seu-usuario/sistema-academico)
+- 📚 [Sistema Igreja com Spring Boot](https://github.com/WJESUSS/igreja-celulas)
 
 *(Atualize os links acima com os repositórios corretos do seu GitHub)*
 
